@@ -23,7 +23,7 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 [Deployed Site Web](https://andresilva8624.github.io/book-search-app/)
 
-[Deployed Heroku App](https://andre-book-search-app.herokuapp.com/)
+[Deployed Heroku App](https://andres-book-search-app.herokuapp.com/)
 
 
 
