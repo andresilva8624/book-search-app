@@ -25,6 +25,8 @@ Clone the repository to your local machine and open the package.json on your Ter
 
 [Deployed Heroku App](https://andres-book-search-app.herokuapp.com/)
 
+![gif of deployed site](client/src/images/book.gif)
+
 
 
 ## Credits
