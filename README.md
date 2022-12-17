@@ -15,7 +15,7 @@ This search engine app is a fully functioning Google Books API search engine bui
 
 ## Installation
 
-Clone the repository to your local machine and open the package.json on your Terminal with npm run start:dev
+Clone the repository to your local machine and open the package.json on your Terminal with npm run develop.
 
 ## Usage
 
